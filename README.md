@@ -11,8 +11,8 @@
 
 1. 요구사항 분석
 2. 화면설계서
-3. api명세서
-4. 시퀀스다이어그램
-5. 개발
+3. api명세서 - excel / notion
+4. 시퀀스다이어그램 - puml
+5. 개발 - spring boot / mysql
 
 
